@@ -1,0 +1,5 @@
+body{background-color: #00FFFF}
+h1, h2{color: #FF00FF}
+h1{font-size: 55pt;}
+strong {color: red; font-size: 40px }
+p:first-letter{font-weight: bold; font-size: 500%;}
