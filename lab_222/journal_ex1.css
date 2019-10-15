@@ -1,0 +1,11 @@
+boby{background-image: url("background.gif"); 
+margin-left: 10%;
+margin-right: : 10%;}
+#container{background-color: white; border: 5px green solid;}
+#header{border: 5px red solid; text-align: right;}
+.entry{background-color: #E8FBFB; 
+padding: 5px; margin: 10px;	border: 5px blue solid;
+text-align: justify;}
+#header h2 {border: 5px orange solid;}
+.date {border: 5px purple solid;}
+.spacer {clear: right;}
